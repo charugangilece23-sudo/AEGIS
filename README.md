@@ -1,7 +1,7 @@
 # AEGIS
 
 Behavioural threat detection for critical national infrastructure that **improves as your
-analysts use it**. Built for the ET AI Hackathon 2026, Problem Statement #7.
+analysts use it**. 
 
 The rule the project runs on: **every headline number reduces to "we measured X on dataset Y,
 here is the script."** Where something is simulated, the interface says so.
