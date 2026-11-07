@@ -1,4 +1,4 @@
-# CyberSentinel — architecture
+# AEGIS — architecture
 
 A named deliverable of PS#7. Diagrams are Mermaid, so they render in GitHub and stay in
 version control rather than drifting away in a slide.
